@@ -13,7 +13,7 @@ android {
   compileSdk { version = release(36) { minorApiLevel = 1 } }
 
   defaultConfig {
-    applicationId = "com.aistudio.tabsplit.app"
+    applicationId = "com.futurepath.fairsplit""
     minSdk = 24
     targetSdk = 36
     versionCode = 1
